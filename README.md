@@ -14,5 +14,5 @@ Textual approximation of a time duration (from seconds to years) in a Github-lik
 
 ## Simplifications
 * support for Gregorian calendar only
-* no [intercalation]( en.wikipedia.org/wiki/Intercalation_(timekeeping) ), 1 month consists of 4 weeks (i.e. 28 days)
+* no [intercalation]( http://en.wikipedia.org/wiki/Intercalation_%28timekeeping%29 ), 1 month consists of 4 weeks (i.e. 28 days)
 * no i18n/L10n (just simple English)
