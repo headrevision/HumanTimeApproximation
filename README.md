@@ -10,7 +10,7 @@ Textual approximation of a time duration (from seconds to years) in a Github-lik
 * 1d 12:00:00 is represented as "2 days"
 * 7d 00:00:00 is represented as "a week"
 * 28d 00:00:00 is represented as "a month"
-* 2a 167d 23:59:59 12:30:30 is represented as "3 years"
+* 2a 167d 23:59:59 is represented as "3 years"
 
 ## Simplifications
 * support for Gregorian calendar only
